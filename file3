@@ -1,2 +1,2 @@
 Local rebase.
-Git stash option testing.
+Git amend option testing and have to keep in mind that amend is possible to do only before we push our changes to the remote repository.
