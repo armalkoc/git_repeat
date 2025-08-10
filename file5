@@ -1,0 +1,6 @@
+This file is just for learning git history:
+- git reset with soft and hard option
+   git commit --amend
+- git push force
+- git revert
+
